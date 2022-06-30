@@ -1,0 +1,27 @@
+#formulario{
+    background-color: #f6f6f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+#formulario input{
+    width: 400px;
+    text-align: center;
+}
+
+#comprobar{
+    border: 0;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: blueviolet;
+    color: white
+}
+
+#respuesta{
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+}
